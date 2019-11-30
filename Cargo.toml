@@ -77,4 +77,4 @@ name = "error-chain-demo"
 required-features = ["with_error_chain"]
 
 [workspace]
-members = [".", "integrations/sentry-actix"]
+members = ["."]
